@@ -5,8 +5,8 @@
 ### Feature extraction
 - LPC formants estimation (Parselmouth & PyTorch Perceptron)
 ### Multi-Layer Perceptrons
-- Update intermediate outputs Metrics (F1-Score, Confusion Matrices etc.)
-- Test other Datasets
+- Update outputs Metrics (F1-Score, Confusion Matrices etc.)
+- Test other Datasets (PB, TIMIT etc.)
 ### Other
 - HMM, PNN
 - Paper(s)...
