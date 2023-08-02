@@ -3,10 +3,7 @@
 
 ## TO-DO List
 ### Feature extraction
-- LPC formants estimation (Parselmouth & PyTorch Perceptron)
-### Multi-Layer Perceptrons
+- LPC formants estimation (Parselmouth VS PyTorch LPA implementation)
+### Multi-Layer Perceptron
 - Update outputs Metrics (F1-Score, Confusion Matrices etc.)
 - Test other Datasets (PB, TIMIT etc.)
-### Other
-- HMM, PNN
-- Paper(s)...
