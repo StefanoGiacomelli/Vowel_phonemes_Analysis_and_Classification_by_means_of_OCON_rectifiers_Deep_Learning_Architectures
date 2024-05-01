@@ -1,7 +1,7 @@
 # Vowel phonemes Analysis and Classification by means of OCON rectifiers Deep Learning Architectures
 *Stefano Giacomelli - Master Degree Thesis in Sound Technology (A.Casella Conservatory, L'Aquila, Abruzzo, Italy)*
 
-updated during PhD in Information and Communication Technologies - DISIM Dept. of University of L'Aquila
+updated during 1st year of PhD in Information and Communication Technologies - DISIM Dept. of University of L'Aquila (2023-2024)
 
 ## TO-DO list
 ### Feature extraction
